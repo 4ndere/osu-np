@@ -11,5 +11,3 @@ https://github.com/Piotrekol/StreamCompanion
 - User-Interface
 - Docs
 - Improve README.md
-
-
