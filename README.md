@@ -1,5 +1,5 @@
 # Prototype
-- still needs a lot of work, all help appreciated
+- Still needs a lot of work, all help appreciated
 
 # Changelog 0.0.2
 - Added Live Chat ID detection using authentication.
